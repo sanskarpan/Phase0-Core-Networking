@@ -1,0 +1,16 @@
+# Binaries
+*.exe
+*.test
+*.out
+/bin/
+
+# Test cache
+.cache/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
